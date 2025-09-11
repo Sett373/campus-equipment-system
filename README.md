@@ -67,5 +67,16 @@ Entities
   
   • H2 Database (In-memory)
   
+**📄 License**
+
+This project is for educational purposes as part of coursework.
+
+**👨‍💻 Author**
+
+Leo Jake de los Cientos
+
+GitHub: @Sett373
+
+Package: edu.cit.deloscientos.leojake.campusequipmentloan
 
 
