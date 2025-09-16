@@ -1,6 +1,7 @@
 **Campus Equipment Loan System**
 
 A Spring Boot REST API system for managing campus equipment loans for students.
+ 
  ** 🎯 Project Overview**
 This system allows students to borrow campus equipment with automatic tracking of loan periods, availability, and penalties for overdue returns.
 
